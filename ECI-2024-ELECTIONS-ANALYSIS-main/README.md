@@ -1,21 +1,35 @@
-# Project Title
+# ECI 2024 Election Analysis
 
-Analysis of Election Commission of India Website for the Lok Sabha 2024 Elections
+## Overview
+This project analyzes the 2024 Indian General Election data using Python and publicly available Election Commission of India datasets. The objective is to explore election results, identify voting trends, and present meaningful insights through data visualization.
 
-## Description
+## Features
+- Party-wise election performance
+- State-wise results analysis
+- Vote share comparison
+- Interactive visualizations
+- Data preprocessing and analysis
 
-Lok Sabha Elections are a major event in India, where all eligible citizens vote to decide which party forms the government for a tenure of 5 years. The aim of this project is to scrape meaningful data from the Election Commission of India's website and use data preprocessing and mining methodology to visualize and derive meaningful insights.
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Plotly
+- HTML
 
-To see the Report Kindly visit here 
-https://mukundred.github.io/ECI-2024-ELECTIONS-ANALYSIS/
+## Dataset
+Publicly available election data from the Election Commission of India (ECI).
 
-## Getting Started
+## Project Structure
+- Processed Data
+- State-wise Results
+- Visualizations
+- HTML Report
 
-### Installation
+## Future Improvements
+- Interactive Power BI Dashboard
+- SQL-based analysis
+- Additional constituency-level insights
 
-Put the following command in your terminal/cmd after traversing to the designated folder:
-
-
-```bash
-git clone https://github.com/mukundred/ECI-Analysis.git
-pip install -r requirements.txt
+## Author
+Saara Goyal
